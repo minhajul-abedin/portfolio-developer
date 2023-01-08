@@ -201,3 +201,15 @@ main {
   background: #FFF8F3;
   padding: 130px 200px;
 }
+.contact-section input[type="email"], input[type="text"], textarea{
+  margin-bottom: 24px;
+  border: none;
+  width: 100%;
+  padding: 18px 30px;
+}
+.input{
+  height: 60px;
+}
+.contact-section a {
+  text-decoration: none;
+}
