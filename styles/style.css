@@ -20,6 +20,9 @@ nav ul li a {
   font-weight: 400;
   font-size: 20px;
 }
+nav ul li a:hover{
+  border-bottom: 5px solid #fd6e0a;
+}
 .primary-color {
   color: #fd6e0a;
 }
@@ -73,6 +76,7 @@ a {
     url("../images/developer.png");
   background-repeat: no-repeat;
   background-position: bottom right, left;
+  
 }
 /* main section */
 
@@ -210,6 +214,11 @@ main {
 .input{
   height: 60px;
 }
-.contact-section a {
-  text-decoration: none;
+.social p {
+
+  margin-bottom: 32px;
+}
+.social a img  {
+
+  margin-right: 10px;
 }
